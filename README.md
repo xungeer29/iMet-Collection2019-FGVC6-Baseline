@@ -1,21 +1,21 @@
 # iMet-Collection2019-FGVC6-Baseline
-<div align=center><img width="150" height="150" src="https://github.com/xungeer29/iMet-Collection2019-FGVC6-Baseline/blob/master/figs/cover.png"/></div>
+![fig1](./figs/cover.png)
 
 竞赛官网: [https://www.kaggle.com/c/imet-2019-fgvc6/overview](https://www.kaggle.com/c/imet-2019-fgvc6/overview)
 
 ## Dataset
 * 每种属性的图像数量:
 
-  <div align=center><img width="150" height="150" src="https://github.com/xungeer29/iMet-Collection2019-FGVC6-Baseline/blob/master/figs/num_ims_per_attribute.jpg"/></div>
+  <div align=center><img width="400" height="400" src="https://github.com/xungeer29/iMet-Collection2019-FGVC6-Baseline/blob/master/figs/num_ims_per_attribute.jpg"/></div>
 
 * 标签数量-图像数量分布:
 
-  <div align=center><img width="150" height="150" src="https://github.com/xungeer29/iMet-Collection2019-FGVC6-Baseline/blob/master/figs/num_of_tags_distribution.jpg"/></div>
+  <div align=center><img width="400" height="400" src="https://github.com/xungeer29/iMet-Collection2019-FGVC6-Baseline/blob/master/figs/num_of_tags_distribution.jpg"/></div>
 
 * 存在大量长宽比相差很大的图像
-  <div align=center><img width="150" height="150" src="https://github.com/xungeer29/iMet-Collection2019-FGVC6-Baseline/blob/master/figs/height_ims.png"/></div>
+  ![fig4](./figs/height_ims.png)
   
-  <div align=center><img width="150" height="150" src="https://github.com/xungeer29/iMet-Collection2019-FGVC6-Baseline/blob/master/figs/height_ims.png"/></div>
+  ![fig5](./figs/width_ims.png)
 
 ## ENVS
 * Ubuntu16.04
